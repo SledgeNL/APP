@@ -7,3 +7,8 @@ Excel tool to facilitate converting a picture to a musical composition.
 * generate a random walk through the graph and convert it to music
 * create csv and subsequent midi file of the music
 * create visual and audio version of the piece
+ 
+For using the sheet Multi Voice Audio you need the add-in that you can find here:
+http://sunsite.univie.ac.at/musicfun/MidiCSD/
+
+
